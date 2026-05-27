@@ -19,10 +19,6 @@ I'm an Electronics & Communication Engineering graduate building a career in ent
 **Tools:** Cisco IOS · Packet Tracer · GNS3 · EVE-NG · Wireshark · PuTTY
 **Security:** ACLs · MD5 Route Authentication · Firewall Fundamentals
 
-### 📂 Featured project
-
-🔹 **[Small Office Network](https://github.com/nidha-susan/small-office-network)** — Three-VLAN small office network with inter-VLAN routing on a Layer 3 switch, centralized DHCP, and ACL-based traffic control in Cisco Packet Tracer.
-
 ### 🎓 Education
 
 **B.Tech in Electronics and Communication Engineering**
